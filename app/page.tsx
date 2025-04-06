@@ -40,10 +40,10 @@ const projects: Project[] = [
   {
     title: "Портфолио веб-разработчика",
     description: "Адаптивное портфолио для веб-разработчика с навыками, проектами и контактной формой.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/portfolio.jpg",
     technologies: ["React", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "Framer Motion", "Lucide React", "next-themes"],
-    githubUrl: "https://github.com/yourusername/photographer-portfolio",
-    liveUrl: "https://photographer-portfolio-demo.vercel.app",
+    githubUrl: "https://github.com/Artem18071998/frontend-developer-portfolio",
+    liveUrl: "https://frontend-developer-portfolio-ilfu.vercel.app",
   },
 ]
 
