@@ -458,7 +458,7 @@ if (!serviceId || !templateId || !publicKey) {
               <span className="sr-only">GitHub</span>
             </Link>
             <Link
-              href="https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D0%BA%D0%BE%D1%80%D0%BE%D1%87%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-4b8286335"
+              href="www.linkedin.com/in/artem-korochanskiy"
               target="_blank"
               rel="noreferrer"
               className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
