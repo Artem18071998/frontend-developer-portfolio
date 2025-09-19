@@ -32,7 +32,7 @@ const projects: Project[] = [
   {
     title: "Приложение для управления задачами",
     description: "Приложение для управления задачами с функциями создания, редактирования и отслеживания прогресса.",
-    image: "/public/images/manager-task.jpg",
+    image: "/images/manager-task.jpg",
     technologies: ["Next.js", "React", "TypeScript", "Material-UI"],
     githubUrl: "https://github.com/Artem18071998/task-manager-app",
     liveUrl: "https://task-manager-app-gamma-plum.vercel.app/",
