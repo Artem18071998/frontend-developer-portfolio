@@ -479,4 +479,3 @@ if (!serviceId || !templateId || !publicKey) {
     </div>
   )
 }
-
