@@ -32,10 +32,10 @@ const projects: Project[] = [
   {
     title: "Приложение для управления задачами",
     description: "Приложение для управления задачами с функциями создания, редактирования и отслеживания прогресса.",
-    image: "/placeholder.svg?height=400&width=600",
-    technologies: ["React", "TypeScript", "Redux", "Material-UI"],
-    githubUrl: "https://github.com/yourusername/task-manager",
-    liveUrl: "https://task-manager-demo.vercel.app",
+    image: "/public/images/manager-task.jpg",
+    technologies: ["Next.js", "React", "TypeScript", "Material-UI"],
+    githubUrl: "https://github.com/Artem18071998/task-manager-app",
+    liveUrl: "https://task-manager-app-gamma-plum.vercel.app/",
   },
   {
     title: "Портфолио веб-разработчика",
